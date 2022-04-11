@@ -104,7 +104,7 @@ echo '</div>';
 echo '</div>';
 echo '';
 echo '<button class="w3-button w3-light-grey w3-padding-large w3-section">';
-echo '<i class="fa fa-download"></i> Download Resume';
+echo '<i class="fa fa-download"></i> download Resume';
 echo '</button>';
 echo '';
 echo '<!-- Grid for pricing tables -->';
